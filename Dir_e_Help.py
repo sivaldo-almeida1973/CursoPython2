@@ -18,6 +18,5 @@ tipo de dado.
 sintaxe: help(funcao) ou help(valor/tipo de dado.metodo/funcao
 """
 
-
-# print(help(print))
-print(help('dudu'.title()))
+#print(help(print))
+#print(help('dudu'.title))
